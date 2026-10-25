@@ -1,0 +1,43 @@
+{
+  "siteUrl": "https://tagafconsult.com",
+  "siteName": "Tagaf Consulting",
+  "image": "/og-image.jpg",
+  "pages": {
+    "/": {
+      "title": "Tagaf Consulting | HSE, Food Safety, HACCP & ISO Certification in Lagos",
+      "description": "Tagaf Consulting: HSE consultancy, food safety, HACCP, ISO certification and regulatory support in Lagos, Nigeria."
+    },
+    "/about/": {
+      "title": "About Us | Tagaf Consulting",
+      "description": "About Tagaf Consulting (RC 7808745): our story, mission and values."
+    },
+    "/services/": {
+      "title": "Our Services | Tagaf Consulting",
+      "description": "HSE consultancy, regulatory consulting, food safety training, HACCP, ISO certification, water treatment and HSE plans from Tagaf Consulting."
+    },
+    "/clients/": {
+      "title": "Industries We Serve | Tagaf Consulting",
+      "description": "Tagaf Consulting clients and the industries we serve."
+    },
+    "/team/": {
+      "title": "Team & Certifications | Tagaf Consulting",
+      "description": "Meet the Tagaf Consulting team and their certifications."
+    },
+    "/projects/": {
+      "title": "Projects | Tagaf Consulting",
+      "description": "Selected Tagaf Consulting projects and engagements."
+    },
+    "/gallery/": {
+      "title": "Gallery | Tagaf Consulting",
+      "description": "Photos from Tagaf Consulting trainings, site visits and workshops."
+    },
+    "/contact/": {
+      "title": "Contact Us | Tagaf Consulting",
+      "description": "Contact Tagaf Consulting in Ogudu, Lagos for HSE, food safety, ISO and regulatory support."
+    }
+  },
+  "notFound": {
+    "title": "Page not found | Tagaf Consulting",
+    "description": "The page you are looking for could not be found."
+  }
+}
