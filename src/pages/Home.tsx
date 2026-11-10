@@ -134,7 +134,7 @@ export default function Home() {
           <h2>Featured trainings and field work</h2>
           <div className="rail">
             <figure>
-              <img loading="lazy" src="/images/g35.jpg" alt="" />
+              <img loading="lazy" src="/images/g26.jpg" alt="" />
               <figcaption>Food safety training session</figcaption>
             </figure>
             <figure>
@@ -158,7 +158,7 @@ export default function Home() {
               <figcaption>Team certification session</figcaption>
             </figure>
           </div>
-          <Link to="/gallery">View the full gallery →</Link>
+          <Link style={{ marginTop: '28px' }} className="btn " to="/gallery">View the full gallery →</Link>
         </div>
       </section>
       <section className="sec">

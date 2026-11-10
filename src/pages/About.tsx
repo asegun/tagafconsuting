@@ -32,12 +32,7 @@ export default function About() {
         <div className="wrap">
           <div className="grid g2">
             <div className="card">
-              <span className="ico">
-                <svg viewBox="0 0 24 24" aria-hidden="true">
-                  <path d="M2 12s4-8 10-8 10 8 10 8-4 8-10 8S2 12 2 12z" />
-                  <circle cx="12" cy="12" r="3" />
-                </svg>
-              </span>
+
               <h3>Our vision</h3>
               <p>
                 To be the most sought-after consulting firm in Nigeria and beyond, known for
@@ -45,13 +40,7 @@ export default function About() {
               </p>
             </div>
             <div className="card">
-              <span className="ico">
-                <svg viewBox="0 0 24 24" aria-hidden="true">
-                  <circle cx="12" cy="12" r="10" />
-                  <circle cx="12" cy="12" r="6" />
-                  <circle cx="12" cy="12" r="2" />
-                </svg>
-              </span>
+
               <h3>Our mission</h3>
               <p>
                 To deliver expert solutions in food safety and sustainability that drive compliance,

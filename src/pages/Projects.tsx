@@ -36,7 +36,17 @@ export default function Projects() {
       <section className="sec soft">
         <div className="wrap">
           <h2>Client projects</h2>
-          <div className="grid g3" style={{ marginTop: '26px' }}>
+          <div className="grid g2" style={{ marginTop: '26px' }}>
+            <div className="card">
+              <h3>Olki Electromechanical Engineering limited</h3>
+              <p>
+                <span className="tag">Develop HSE Induction plans and programs </span>
+                <span className="tag">Develop HSE manual</span>
+                <span className="tag">Developed risk assessment system </span>
+                <span className="tag">Developed HSE Plan document </span>
+                <span className="tag">Provide general HSE consultation services </span>
+              </p>
+            </div>
             <div className="card">
               <h3>Creamella Foods Limited</h3>
               <p>
@@ -77,6 +87,8 @@ export default function Projects() {
                 <span className="tag">HSE policy documents</span>
               </p>
             </div>
+
+
           </div>
         </div>
       </section>
@@ -85,7 +97,7 @@ export default function Projects() {
           <h2>Training and field engagements</h2>
           <div className="rail">
             <figure>
-              <img loading="lazy" src="/images/g01.jpg" alt="" />
+              <img loading="lazy" src="/images/g03.jpg" alt="" />
               <figcaption>Classroom training</figcaption>
             </figure>
             <figure>

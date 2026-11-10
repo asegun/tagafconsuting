@@ -8,11 +8,11 @@ export default function Team() {
       <section className="sec">
         <div className="wrap split">
           <div className="im">
-            <img src="/images/md.jpg" alt="Taiwo Abdulgafar Gbadamosi" />
+            <img src="/images/principal-director.jpeg" alt="Taiwo Abdulgafar Gbadamosi" />
           </div>
           <div>
             <h2>Taiwo Abdulgafar Gbadamosi MBA, MCIA</h2>
-            <h4 style={{ color: 'var(--teal)' }}>Managing Director</h4>
+            <h4 style={{ color: 'var(--teal)' }}>Principal Director/Technical Director</h4>
             <p>
               Taiwo leads Tagaf Consulting with over 10 years of experience in quality, environment,
               health and safety management. He has worked across manufacturing, quick service

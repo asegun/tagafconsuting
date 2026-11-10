@@ -4,8 +4,6 @@ export const GALLERY = [
   'g08',
   'g19',
   'g25',
-  'g35',
-  'g34',
   'g33',
   'g14',
   'g04',
